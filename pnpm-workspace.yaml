@@ -1,4 +1,4 @@
 packages:
   - "apps/*"
-  - "example-toastiva"
+  - "example"
   - "packages/*"
